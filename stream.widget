@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "url": "",
+    "width": 600,
+    "height": 200,
+    "shutdown": true
+  },
+  "name": "Tip Goal",
+  "type": 1,
+  "x": 0,
+  "y": 0.8630604288499024,
+  "scaleX": 0.0005208333333333333,
+  "scaleY": 0.000925925925925926
+}
